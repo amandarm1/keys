@@ -1,0 +1,28 @@
+# compiled output
+/APP/dist
+
+# dependencies
+/APP/node_modules
+/API/node_modules
+
+# Angular cache
+/APP/.angular
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+.editorconfig
+
+# Cypress 
+/End2End/cypress
+
+# Coverage
+/APP/coverage
+/API/coverage
+
+#Mongo
+/mongo-volume
